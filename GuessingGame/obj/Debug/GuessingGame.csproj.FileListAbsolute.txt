@@ -1,0 +1,7 @@
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\vince\Git\Assignment1-2371467\GuessingGame\obj\Debug\GuessingGame.pdb
